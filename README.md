@@ -135,8 +135,9 @@ Supply-Chain-Analysis
 │
 ├── Screenshots
 │   ├── Executive_Overview.png
-│   ├── Manufacturing_Analysis.png
-│   └── Logistics_Analysis.png
+│   ├── Inventory_Manufacturing.png
+│   └── Logistics_Shipping.png
+│   └── Executive_Summary.png
 │
 └── README.md
 ```
