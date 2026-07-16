@@ -67,14 +67,16 @@ Business Insights & Decision Making
 - Total Production Volume
 - Total Revenue
 - Average Manufacturing Cost
+- Average Shipping Cost
+- Average Lead Time
 - Average Defect Rate
 
 ### Visualizations
-- Monthly Production Trend
-- Revenue by Product
-- Production by Factory
-- Defect Rate Analysis
-- Interactive Filters
+- Revenue by Shipping Carrier
+- Revenue by Product Type
+- Revenue by Location
+- Customer Demographics
+
 
 ---
 
