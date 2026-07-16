@@ -7,7 +7,6 @@ End-to-end Supply Chain Analysis project using Excel, Python, SQL, and Power BI 
 
 The Supply Chain Analysis Dashboard is an end-to-end Business Intelligence project that transforms raw supply chain data into meaningful business insights using Excel, Python, SQL, and Power BI.
 
-The dashboard analyzes revenue, production, inventory, supplier performance, logistics, and transportation operations to help businesses optimize supply chain efficiency, reduce operational costs, and support data-driven decision-making.
 ---
 
 # 🎯 Business Objectives
@@ -123,16 +122,16 @@ Business Insights & Decision Making
 Supply-Chain-Analysis
 │
 ├── Data
-│   ├── Supply_Chain_Cleaned_Data.csv
+│   ├── supply_chain_data.csv
 │
 ├── Python
-│   └── Supply_Chain_Analysis.ipynb
+│   └── supply_chain_data.csv.ipynb
 │
 ├── SQL
-│   └── Supply_Chain_SQL_Queries.sql
+│   └── supply_chain_data_mysql.sql
 │
 ├── Power BI
-│   └── Supply_Chain_Dashboard.pbix
+│   └── supply_chain_Dashboard.pbix
 │
 ├── Screenshots
 │   ├── Executive_Overview.png
@@ -152,15 +151,17 @@ Supply-Chain-Analysis
 
 ---
 
-## Manufacturing & Quality Analysis
+##  Inventory & Manufacturing Analysis
 
 (Add Screenshot Here)
 
 ---
 
-## Logistics & Supply Chain Analysis
+## Logistics & Shipping Analysis
 
 (Add Screenshot Here)
+
+### Executive Summary
 
 ---
 
