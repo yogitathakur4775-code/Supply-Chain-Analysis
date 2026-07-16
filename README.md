@@ -5,12 +5,9 @@ End-to-end Supply Chain Analysis project using Excel, Python, SQL, and Power BI 
 
 # 📖 Project Overview
 
-The Supply Chain Analysis Dashboard is an end-to-end Business Intelligence project designed to transform raw supply chain data into actionable business insights.
+The Supply Chain Analysis Dashboard is an end-to-end Business Intelligence project that transforms raw supply chain data into meaningful business insights using Excel, Python, SQL, and Power BI.
 
-The project follows the complete data analytics workflow—from data cleaning and preprocessing to SQL-based business analysis and interactive Power BI dashboard development.
-
-It enables businesses to monitor operational performance, identify bottlenecks, reduce costs, improve delivery efficiency, and support data-driven decision-making.
-
+The dashboard analyzes revenue, production, inventory, supplier performance, logistics, and transportation operations to help businesses optimize supply chain efficiency, reduce operational costs, and support data-driven decision-making.
 ---
 
 # 🎯 Business Objectives
@@ -80,49 +77,43 @@ Business Insights & Decision Making
 
 ---
 
-## 🏭 Manufacturing & Quality Analysis
+## 🏭  Inventory & Manufacturing Analysis
 
 ### KPIs
 - Average Manufacturing Cost
-- Average Defect Rate
-- Total Defective Units
-- Production Efficiency
+- Average Stock Level
+- Total Production volume
+- Average manufacturing Lead Time
 
 ### Visualizations
-- Manufacturing Cost by Factory
-- Defect Rate by Product
-- Scatter Chart
-- Waterfall Chart
-- Matrix Table
+- Manufacturing Cost by Product Type
+- Average stock by Product Type
+- Production Volume by Supplier 
+- Stock Levels Vs Products Sold
+- Supplier Performance Ranking
 
 ---
 
-## 🚚 Logistics & Supply Chain Analysis
+## 🚚 Logistics & Shipping Analysis
 
 ### KPIs
 - Average Shipping Cost
 - Average Shipping Time
 - Total Shipments
-- On-Time Delivery Rate
+- Total Shipping carrier
 
 ### Visualizations
 - Shipping Cost by Carrier
-- Shipping Time by Region
-- Shipment Distribution
-- Treemap
-- Donut Chart
-- Shipment Details Matrix
+- Shipping Time by Transportation Mode
+- Revenue By Shipping Carrier
+- Revenue by Route
+- Shipping cost by Transportation Mode
 
 ---
-
-# 📈 Key Business Insights
-
-- Identified high-performing production facilities.
-- Compared manufacturing costs across factories.
-- Analyzed product quality using defect rates.
-- Evaluated supplier and logistics performance.
-- Monitored shipping efficiency and transportation costs.
-- Identified opportunities to optimize supply chain operations.
+### Executive Summary
+- Business Insights
+- Recommendations
+- Operational Conclusions
 
 ---
 
@@ -132,7 +123,6 @@ Business Insights & Decision Making
 Supply-Chain-Analysis
 │
 ├── Data
-│   ├── Supply_Chain_Raw_Data.xlsx
 │   ├── Supply_Chain_Cleaned_Data.csv
 │
 ├── Python
