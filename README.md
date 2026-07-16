@@ -148,23 +148,26 @@ Supply-Chain-Analysis
 
 ## Executive Overview
 
-(Add Screenshot Here)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ---
 
-##  Inventory & Manufacturing Analysis
+## Inventory & Manufacturing
 
-(Add Screenshot Here)
+![Inventory & Manufacturing](Screenshots/Inventory_Manufacturing.png)
+
+---
+
+## Logistics & Shipping
+
+![Logistics & Shipping](Screenshots/Logistics_Shipping.png)
 
 ---
 
-## Logistics & Shipping Analysis
+## Executive Summary
 
-(Add Screenshot Here)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
-### Executive Summary
-
----
 
 # 💼 Skills Demonstrated
 
